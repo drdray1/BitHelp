@@ -4,7 +4,7 @@ const url = "https://blockchain.info/";
 fetch(url + "ticker").then(function(response) {
   return response.json();
 }).then(function(json) {
-  console.log(json.USD.symbol + json.USD.last);
+  // console.log(json.USD.symbol + json.USD.last);
   document.getElementById("currentBitcoinPrice").innerHTML = json.USD.symbol + json.USD.last;
 });
 
@@ -13,7 +13,7 @@ let value = 1;
 fetch(url + "tobtc?currency=USD&value=" + value).then(function(response) {
   return response.json();
 }).then(function(json) {
-  console.log(json);
+  // console.log(json);
   document.getElementById("priceInDollars").innerHTML = json;
 });
 
@@ -27,7 +27,7 @@ fetch("https://bloomberg-market-and-financial-news.p.rapidapi.com/news/list?id=c
 .then(function(response) {
 	return response.json();
 }).then(function(json) {
-  console.log(json);
+  // console.log(json);
   let result = "";
   let articles = json.modules[2].stories;
   for (let i = 0; i < 3; i++) {
