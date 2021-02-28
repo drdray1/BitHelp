@@ -4,20 +4,11 @@ I used the theme down below for my styling.
 
 My Javascript is in the js folder in the myJs.js file.
 
+The api for the news articles is:
+https://rapidapi.com/apidojo/api/bloomberg-market-and-financial-news?endpoint=apiendpoint_b500b719-e908-4672-a9ba-965a8297f9db
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+The api for the bitcoin data is:
+https://www.blockchain.com/api/exchange_rates_api
 
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
 
