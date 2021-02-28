@@ -2,6 +2,8 @@ The 3 Api requests that I am doing are to first Get the current price of bitcoin
 
 I used the theme down below for my styling. 
 
+My Javascript is in the js folder in the myJs.js file.
+
 
 
 
