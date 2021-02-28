@@ -1,3 +1,22 @@
+The 3 Api requests that I am doing are to first Get the current price of bitcoin in usd, second to get the amount that 1 usd would be able to buy, and third 4 news articles that are associated with crypto currencies.
+
+I used the theme down below for my styling. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
 
 [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
